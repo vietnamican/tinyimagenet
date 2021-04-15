@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*.jpg
+*.JPEG
+tiny-imagenet-200.zip
+tiny-imagenet-200/
+sets/random/*
+*boxes*.txt
+*.hdf5
+*.pyc
+__pycache__
+networks/__pycache__
+work
+*_logs
